@@ -1,1 +1,2 @@
-# a-mediocre-dev-site
+# A Mediocre Dev
+### Tiny solutions for small problems
